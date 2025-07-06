@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Registration & Contact</h1>
+    <p>Welcome to the registration and contact page of Kids Inc.!</p>
+    <p>If you have any questions or would like to register, please contact us at:</p>
+    <ul>
+        <li>Learner2873@theheritageschool.in</li>
+        <li>Phone: +91 95994 70075</li>
+        <li>Address: D2 Basant Kunj, New Delhi, India</li>
+    </ul>
+    <p>We are always happy to hear from you!</p>
+    <p>For more information about our activities, please visit our <a href="html.html">main page</a>.</p>
+    <p>Thank you for your interest in Kids Inc.!</p>"
+</body>
+</html>

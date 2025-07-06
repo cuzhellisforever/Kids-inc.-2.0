@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>html basics</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>MAPS</h1>
+    <p>Maps are a collection of key-value pairs.</p>
+    <p>here are some maps important to kids inc.</p>
+    <figure><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3505.923859116777!2d77.16437890125917!3d28.511938454815695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1f004d095b89%3A0x4f6c9b1b4821556!2sD2%20Basant%20kunj!5e0!3m2!1sen!2sin!4v1751776773790!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></figure>
+    <p>this is the location of kids inc.!</p>
+    <p>you can find us at D2 Basant Kunj, New Delhi, India.</p>
+    <p>if you se us:
+        <ul>
+            <li>say hi! (come without 18+)</li>
+            <li>ask for a sticker! (we love giving those out!)</li>
+            <li>be sure to consider joining kids inc! (please read terms and conditions first)</li>
+            <li>if you are a parent, please do not join kids inc. (we are not responsible for any injuries or damages caused by kids inc. to non members)</li>
+        </ul>
+    </p>
+    <p>we hope to see you soon! be sure to krrp updated, we keep adding new things!</p>
+    <p>if you have any questions, please contact us at <a href="registration and contact.html">registartion & contact</a>
+</body>
